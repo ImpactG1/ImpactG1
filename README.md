@@ -1,22 +1,19 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mayank%20Bhuvad&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Dev&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Mayank%20Bhuvad&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%206x%20Hackathon%20Winner&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=5x+Hackathon+Winner+%F0%9F%8F%86%F0%9F%94%A5;AI+%26+NLP+Engineer+%F0%9F%A4%96;Building+AI+that+Actually+Works+%F0%9F%9A%80;Turning+Raw+Data+into+Pure+Gold+%F0%9F%A7%A0;Full-Stack+%7C+ML+%7C+Deep+Learning+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=6x+Hackathon+Winner+%F0%9F%8F%86%F0%9F%94%A5;AI+%26+NLP+Engineer+%F0%9F%A4%96;Building+AI+that+Actually+Works+%F0%9F%9A%80;Turning+Raw+Data+into+Pure+Gold+%F0%9F%A7%A0;Full-Stack+%7C+ML+%7C+Deep+Learning+%E2%9A%A1;Believe+in+the+Mayank+who+believes+in+you+%F0%9F%95%B6%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankbereal1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mayank-kenshin-portfolio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankbereal1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImpactG1)
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ImpactG1&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/ImpactG1?style=for-the-badge&color=blueviolet&logo=github)
@@ -25,38 +22,57 @@
 
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="Coding Vibes" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 📜 Character Sheet
+
+<div align="center">
+
+| | |
+|:---|:---|
+| **Name** | Mayank Bhuvad |
+| **Class** | Data Scientist / AI Engineer |
+| **Subclass** | Full-Stack Builder, Indie Founder |
+| **Base** | Mumbai, India 🇮🇳 |
+| **Alignment** | Chaotic Productive |
+| **Guild** | University of Mumbai, B.Sc. Data Science (9.3 CGPA) |
+| **Hackathon Wins** | **6** (National & International) |
+| **Weakness** | Sleep. Also "one last bug fix" at 2 AM |
+| **Status** | 🟢 Open to collabs, opportunities & good problems |
+
+</div>
+
+---
+
+<img align="right" alt="Coding Vibes" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🧠 `whoami`
 
 ```python
 class MayankBhuvad:
     def __init__(self):
-        self.name        = "Mayank Bhuvad"
-        self.role        = "Data Scientist & AI Engineer"
-        self.education   = "B.Sc. Data Science @ University of Mumbai (9.3 CGPA)"
-        self.passions    = ["NLP", "Deep Learning", "Full-Stack AI Apps"]
+        self.name         = "Mayank Bhuvad"
+        self.role         = "Data Scientist & AI Engineer"
+        self.education    = "B.Sc. Data Science @ University of Mumbai (9.3 CGPA)"
+        self.passions     = ["NLP", "Deep Learning", "Full-Stack AI Apps"]
         self.achievements = [
-            "🏆 5x Hackathon Winner (National & International)",
+            "🏆 6x Hackathon Winner (National & International)",
             "💡 1x Ideathon Winner",
-            "🌐 Top 1000 — Google Hackathon",
+            "🌐 Top 1000, Google Hackathon",
             "🐍 College Python Coding Competition Winner",
-            "🎓 Google Developer Student Club Participant"
+            "🎓 Google Developer Student Club Participant",
         ]
 
     def current_focus(self):
         return [
             "Fine-tuning LLMs for low-resource Indian languages",
             "Building production-grade AI REST APIs",
-            "Exploring Reinforcement Learning & AI Agents"
+            "Exploring Reinforcement Learning & AI Agents",
         ]
 
-    def fun_fact(self):
-        return "I build AI that wins hackathons at 2AM ☕🔥"
+    def philosophy(self):
+        return "Ship it. Measure it. Fix it. Ship it again."
 
-    def life_motto(self):
-        return "Data is the new oil. Insight is the refinery. 🛢️"
+    def fun_fact(self):
+        return "I build AI that wins hackathons at 2 AM ☕🔥"
 ```
 
 <br clear="right"/>
@@ -67,51 +83,17 @@ class MayankBhuvad:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="80"/>
-
 | 🏆 | 💡 | 🌍 | 🐍 | 🎓 |
 |:---:|:---:|:---:|:---:|:---:|
-| **5x Hackathon Winner** | **1x Ideathon Winner** | **Top 1000** | **Python Champion** | **9.3 CGPA** |
+| **6x Hackathon Winner** | **1x Ideathon Winner** | **Top 1000** | **Python Champion** | **9.3 CGPA** |
 | National & International | Creative Problem Solving | Google Hackathon | College Level | B.Sc. Data Science |
 
-</div>
-
----
-
-## 😂 My Daily Dev Life
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/><br/>
-      <b>Me explaining my ML model</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/><br/>
-      <b>When the model finally converges</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/><br/>
-      <b>Submitting hackathon at 11:59 PM</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="200"/><br/>
-      <b>Debugging at 3AM</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/><br/>
-      <b>When it works on the first try</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/><br/>
-      <b>After winning another hackathon 🏆</b>
-    </td>
-  </tr>
-</table>
+```
+ ┌──────────────────────────────────────────┐
+ │  ACHIEVEMENT UNLOCKED: Hackathon #6 🏆   │
+ │  Reward: +100 Confidence, -8 Hours Sleep │
+ └──────────────────────────────────────────┘
+```
 
 </div>
 
@@ -132,11 +114,9 @@ class MayankBhuvad:
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🌳 Skill Tree
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="220"/>
 
 ### 🤖 AI / ML / Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -175,6 +155,72 @@ class MayankBhuvad:
 
 ---
 
+## 🛰️ Current Mission Log
+
+| Status | Mission | Progress |
+|:---:|:---|:---|
+| 🟢 | Fine-tuning LLMs for low-resource Indian languages | `██████░░░░` 60% |
+| 🟢 | Production-grade AI REST APIs | `███████░░░` 70% |
+| 🟡 | Reinforcement Learning & AI Agents | `████░░░░░░` 40% |
+| 🟡 | Shipping indie products solo | `█████░░░░░` 50% |
+| 🔴 | Sleeping 8 hours | `░░░░░░░░░░` 0% (not found) |
+
+---
+
+## 😂 My Daily Dev Life
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/><br/>
+      <b>Me explaining my ML model</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/><br/>
+      <b>When the model finally converges</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/><br/>
+      <b>Submitting hackathon at 11:59 PM</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="200"/><br/>
+      <b>Debugging at 3 AM</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/><br/>
+      <b>When it works on the first try</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/><br/>
+      <b>After winning hackathon #6 🏆</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+### 🧾 Dev Meme Bingo
+
+```
+┌─────────────────────┬─────────────────────┬─────────────────────┐
+│ "It works on my     │ Training loss: NaN  │ Fixed one bug,      │
+│  machine"           │                     │  created three      │
+├─────────────────────┼─────────────────────┼─────────────────────┤
+│ git commit -m       │   ★ FREE SPACE ★    │ 99% accuracy        │
+│  "final_final_v2"   │  Won a hackathon    │  (on the train set) │
+├─────────────────────┼─────────────────────┼─────────────────────┤
+│ "5 min task"        │ Wrote the demo      │ Stack Overflow      │
+│  (4 hours later)    │  the night before   │  saved my life      │
+└─────────────────────┴─────────────────────┴─────────────────────┘
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -196,13 +242,14 @@ class MayankBhuvad:
 
 ```
 [ ✅ ] Fine-tune multilingual NLP models for Indian code-mixed text
-[ ✅ ] Win 5 hackathons at national & international level 🏆
+[ ✅ ] Win 6 hackathons at national & international level 🏆
 [ ✅ ] Ship end-to-end AI product with REST API + React frontend
 [ 🔄 ] Deploy production-scale AI SaaS product
 [ 🔄 ] Contribute to open-source NLP / ML projects
 [ 🔄 ] Master Reinforcement Learning & AI Agents
 [ ⏳ ] Publish research paper on Hinglish toxicity detection
 [ ⏳ ] Land a full-time AI/ML role & keep building 🚀
+[ 👑 ] Hackathon #7 (the prophecy)
 ```
 
 ---
@@ -217,14 +264,17 @@ class MayankBhuvad:
 
 ---
 
-## 💬 Quote I Live By
+## 🕶️ Words to Build By
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
 
-> ### *"Data is the new oil, but insight is the refinery."*
-> — Mayank Bhuvad
+> ### *"Always believe in yourself, who believes in you.."*
+> — Kamina, *Tengen Toppa Gurren Lagann*
+
+> ### *"If you're afraid, don't larp. And if you're larping, then don't be afraid."*
+> — Mayank Bhuvad 😎
 
 </div>
 
@@ -236,7 +286,7 @@ class MayankBhuvad:
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
 <br/>
-<i>I love connecting with fellow builders, dreamers & hackers.</i>
+<i>I love connecting with fellow builders, dreamers & hackers.<br/>Hiring, collaborating, or just want to talk models? My inbox is open.</i>
 
 <br/><br/>
 
